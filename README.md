@@ -1,4 +1,4 @@
-# Dungeon Quest: The Chronicles of the Scepter (C# console game)
+# Dungeon Quest: The Chronicles of the Scepter (C# dotnet console game - a text based game)
 
 ## Overview
 
