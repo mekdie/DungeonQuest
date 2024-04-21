@@ -1,9 +1,7 @@
-Certainly! Let's create some descriptive texts for various aspects of your game:
-
 1. **Game Menu**:
 
     - _Main Menu_:
-        - "Welcome to **Dungeon Quest: The Chronicles of the Scepter**!"
+        - "Welcome to **Dungeon Quest: The Scepter's Legacy**!"
         - "1. New Game"
         - "2. Load Game"
         - "3. Options"

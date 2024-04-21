@@ -1,8 +1,10 @@
-# Dungeon Quest: The Chronicles of the Scepter (C# dotnet console game - a text based game)
+# Dungeon Quest: The Scepter's Legacy
+
+A simple text and turn based RPG game built with C# dotnet console application.
 
 ## Overview
 
-In a time veiled by antiquity, where the echoes of forgotten civilizations resonate through crumbling stone, you, the intrepid seeker, stand at the precipice of destiny. _Dungeon Quest: The Chronicles of the Scepter_ beckons—a tale woven from threads of courage, sacrifice, and the choices made in darkness.
+In a time veiled by antiquity, where the echoes of forgotten civilizations resonate through crumbling stone, you, the intrepid seeker, stand at the precipice of destiny. _Echoes of Aethernorth: The Scepter's Legacy_ beckons—a tale woven from threads of courage, sacrifice, and the choices made in darkness.
 
 ### The Enigma of the Scepter
 
@@ -11,6 +13,8 @@ The **Scepter of Eternity**, a relic whispered of in hushed tones, lies conceale
 ### The Descent Begins
 
 Your journey commences in the shadowed halls of the **Dungeons of Whispered Echoes**. Each step downward is a plunge into obscurity, a descent guided by half-forgotten maps and the flickering light of a lantern. The air grows colder, and the walls pulse with dormant magic. Here, the boundary between the mundane and the mystical blurs.
+
+Explore more detailed story of this game [here](https://github.com/mekdie/DungeonQuest/blob/master/Story/Story.md).
 
 ### Choose Your Path
 
